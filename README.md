@@ -1,0 +1,1 @@
+V15 standalone fix. Replace letter.html. The clean UT-style background and Longhorn logo are embedded directly in letter.html, so an older background asset cannot create a duplicate letter. Keep assets/ut-cadence.mp3 for music.
